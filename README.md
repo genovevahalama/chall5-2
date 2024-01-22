@@ -1,3 +1,4 @@
+REMOTE
 # chall5-2
 line1
 line2
